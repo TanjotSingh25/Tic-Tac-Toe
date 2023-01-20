@@ -1,5 +1,7 @@
-# Tic-Tac-Toe Game
+<div style="text-align: center">
 
+# Tic-Tac-Toe Game
+</div>
 Welcome to our Tic-Tac-Toe Game! This game is built using the Pygame library in Python.
 
 ## How to Play
